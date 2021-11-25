@@ -10,10 +10,10 @@ Play away!
 
 ## Controls
 
-Left arrow key: Move left
-Right arrow key: Move right
-Up arrow key: Jump
-When dead, left click: Restart
+Left arrow key: Move left<br>
+Right arrow key: Move right<br>
+Up arrow key: Jump<br>
+When dead, left click: Restart<br>
 
 ## How to play
 
