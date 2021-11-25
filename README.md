@@ -1,5 +1,5 @@
 # Phaser 3 Tutorial Game
-My additions to the [https://phaser.io/tutorials/making-your-first-phaser-3-game](Phaser.js "Getting Started With Phaser 3" tutorial)
+My additions to the [Phaser.js "Getting Started With Phaser 3" tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game)
 
 ## Running the game
 Create a new folder in your www directory of your apache server, only JS and HTML are needed so this may be excusable but Phaser recommends running in a web server.
